@@ -13,8 +13,8 @@ Este projeto configura um ambiente de desenvolvimento completo com Docker Compos
 1. **Clone o repositório** (ou baixe os arquivos):
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
-   cd seu-repo
+   git clone https://github.com/MateusSantos007/Aulas-Topicos-Avancados-Compose.git
+   cd Aulas-Topicos-Avancados-Compose
    ```
 2. ## Suba os containers com Docker Compose:
 
